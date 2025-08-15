@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lord-MonM
 - 👀 I’m interested in Software Engineering, Block-chain development and AWS Cloud Computing 
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on different projects and learn new frameworks
 - 📫 How to reach me: https://www.linkedin.com/in/daniellaou/
 - 😄 Pronouns: She/Her
